@@ -1,3 +1,9 @@
+## My Solution
+
+* Refactored TransferMoney - moved functionality into the Account class 
+* Implemented WithdrawMoney Execute
+* Added tests for Account, TransferMoney and WithdrawMoney
+
 # Moneybox Money Withdrawal
 
 The solution contains a .NET core library (Moneybox.App) which is structured into the following 3 folders:
